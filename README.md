@@ -18,6 +18,9 @@ cl [...] sqlite3.c main.cpp
 
 ## Otras dependencias:
 [nlohmann:JSON.hpp](https://github.com/nlohmann/json/blob/develop/single_include/nlohmann/json.hpp)
+
 [tomykaira:Base64.h](https://gist.github.com/tomykaira/f0fd86b6c73063283afe550bc5d77594)
+
 [PlusAES Wrapper](https://github.com/Nk125/PlusAes-Wrapper)
+
 [Simple Binary File Handler](https://github.com/Nk125/CPP-LocalProjects/tree/main/Simple%20Binary%20File%20Handler)
