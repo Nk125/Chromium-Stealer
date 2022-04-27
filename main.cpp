@@ -1,6 +1,6 @@
 #define DEBUG_MOD
 #include "Base64.h"
-#include "binaryhandling.hpp"
+#include "binaryhandler.hpp"
 #include <cstdio>
 #include <iostream>
 #include "json.hpp"
